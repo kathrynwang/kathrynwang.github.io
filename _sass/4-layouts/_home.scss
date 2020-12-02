@@ -1,7 +1,7 @@
 // Header
 .header {
   margin-bottom: 50px;
-  background: $black;
+  background: $background;
 }
 
 .header, .header-box {
@@ -20,7 +20,7 @@
       line-height: 16px;
       text-transform: uppercase;
       letter-spacing: 5px;
-      color: $text;
+      color: $white;
       &:hover {
         color: #fff;
       }
@@ -37,7 +37,7 @@
   bottom: 0;
   transform: scale(.5);
   z-index: -1;
-  background: $blue-black;
+  background: $beige;
   overflow-y: auto;
   opacity: 0;
   &.active {
@@ -63,7 +63,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
-    color: $text;
+    color: $white;
     &:before {
       content: '';
       position: absolute;
@@ -215,7 +215,7 @@
     .article-date {
       .date {
         font-size: 12px;
-        color: rgba($text, .8);
+        color: rgba($white, .8);
       }
     }
     .article-title {
@@ -224,7 +224,7 @@
       line-height: 30px;
       font-weight: normal;
       a {
-        color: $text;
+        color: $white;
         transition: $global-transition;
       }
     }
@@ -455,7 +455,7 @@
   .nav-buttons i.ion {
     transition: color $global-transition;
     &:hover {
-      color: #fff;
+      color: rgb(44, 44, 44);
     }
   }
 }

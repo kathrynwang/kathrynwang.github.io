@@ -2,7 +2,7 @@
 $primary-color: #1ABC9C;
 $secondary-color: #C19CD8;
 $highlight: #ffeea8;
-$text: #C9D3E7;
+$text: #ffffff;
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
@@ -12,16 +12,17 @@ $blue-darken: #232427;
 $green-darken: #2C3635;
 $danger: #e02f40;
 $success: #34a74e;
+$beige: #e29578;
 
 
 // Background Colors
-$background: $blue-black;
+$background: $beige;
 
 // Body Color
-$body-color: $text;
+$body-color: $black;
 
 // Headings
-$heading-font-color: #404040;
+$heading-font-color: $white;
 
 // Links
 $link-color: $primary-color;

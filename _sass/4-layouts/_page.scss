@@ -4,7 +4,7 @@
 }
 
 .page-image-box {
-  background: $black;
+  background: $white;
   &.reveal-in {
     .page-image {
       opacity: 1;
@@ -33,7 +33,7 @@
 .page-content {
   padding: 40px 15px;
   box-shadow: 0 9px 18px 0 rgba(0,0,0,0.25);
-  background: rgba($blue-darken, .95);
+  background: rgba($white, .95);
 }
 
 .page-head {
@@ -49,7 +49,6 @@
 
 .page-head, .page-body {
   margin-bottom: 20px;
-  border-bottom: 1px solid $border-color;
 }
 
 .page-body {
