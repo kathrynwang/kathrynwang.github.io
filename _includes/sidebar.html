@@ -49,6 +49,13 @@
         <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
       </li>
       {% else %} {% endif %}
+
+      {% if site.youtube %}
+      <li class="social-profiles-item">
+        <a href="{{ site.youtube}}" class="social-profiles-link"><i class="ion ion:logo-youtube"></i></a>
+      </li>
+      {% else %} {% endif %}
+
     </ul>
   </div>
 
@@ -74,7 +81,8 @@
     <h3 class="widget-title">Instagram</h3>
     <div class="instagram-box">
       <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="#">&#64;UserName</a>
+      <div class="instagram-prof" href="http://instagram.com/katsthread">&#64;katsthread</div>
+      <div class="instagram-prof" href="http://instagram.com/katwang__">&#64;katswang__</div>
     </div>
   </div>
   {% endif %}

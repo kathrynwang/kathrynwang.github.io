@@ -67,8 +67,8 @@ $(function() {
 
           setTimeout(function () {
             reveals();
-          }, 100);
-        }, 500);
+          }, 0);
+        }, 0);
       },
       waitForAll: true
     });

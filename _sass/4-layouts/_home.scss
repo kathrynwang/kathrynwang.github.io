@@ -42,10 +42,15 @@
   opacity: 0;
   &.active {
     transition: all .5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    transform: scale(1);
+    transform: scale(.5);
     z-index: 10;
     opacity: 1;
   }
+}
+
+.nav-menu-right {
+  flex-direction: row;
+  display: flex;
 }
 
 .menu-list {
@@ -117,7 +122,7 @@
 .nav-buttons i.ion {
   transition: color $global-transition;
   &:hover {
-    color: #fff;
+    color: $gray-blue;
   }
 }
 
@@ -149,10 +154,10 @@
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #c1c1c7;
-    background: #4f505d;
+    color: $black;
+    background: $white;
     &::placeholder {
-      color: #c1c1c7;
+      color: $white;
     }
   }
 }

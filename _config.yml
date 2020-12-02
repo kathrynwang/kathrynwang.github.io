@@ -15,15 +15,16 @@ author-avatar: kat bio.jpg
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
+facebook:  https://www.facebook.com/katwang20 # Add your Facebook handle
 twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
+instagram: https://www.instagram.com/katwang__ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
+youtube: https://www.youtube.com/channel/UCWalZOiDh6_CqTKAC_BzoYw
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: katsthread # Add your shortname for Disqus Comment.
 
 
 #-------------------------------
@@ -44,13 +45,13 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: ':title/'
+# permalink: ':title/'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
 paginate: 7
-paginate_path: "/page/:num"
+paginate_path: "blog/page/:num"
 
 include:
   - _pages
