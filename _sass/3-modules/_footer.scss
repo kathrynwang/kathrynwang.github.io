@@ -2,7 +2,7 @@
 .footer {
   padding: 50px 0;
   margin-top: 30px;
-  background: $black;
+  background: $beige;
 }
 
 .footer-top {
@@ -11,7 +11,7 @@
   align-items: center;
   padding-bottom: 15px;
   margin-bottom: 10px;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid $white ;
   .logo-text {
     font-size: 16px;
     font-weight: 700;
@@ -29,7 +29,7 @@
     align-items: center;
     width: 30px;
     height: 30px;
-    border: 1px solid $blue-black;
+    border: 1px solid $white;
     background-color: $blue-black;
     color: $text;
     cursor: pointer;
@@ -50,11 +50,11 @@
     p {
       margin-bottom: 0;
       font-size: 13px;
-      color: $gray-blue;
+      color: $white;
       a {
-        color: $gray-blue;
+        color: $white;
         &:hover {
-          color: $primary-color;
+          color: $gray-blue;
         }
       }
     }
@@ -70,10 +70,10 @@
         a {
           font-size: 13px;
           font-weight: bold;
-          color: $gray-blue;
+          color: $white;
           transition: $global-transition;
           &:hover {
-            color: $primary-color;
+            color: $gray-blue;
           }
         }
       }

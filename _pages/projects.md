@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 ---
 
-# Projects
+# Projects / Involvements
 <html>
 <style>
 * {
@@ -55,6 +55,13 @@ img {
       <p>REGOOD is a lifestyle brand that rescues usable textiles destined for the landfill and upcycle them into lifestyle products.</p>
     </div>
   </div>
+   <div class="column">
+    <div class="card">
+      <a href="https://www.kota-alliance.org/meet-the-team"><img src="/img/kota.png"></a>
+      <a href="https://www.kota-alliance.org/meet-the-team"><p><h3>Kota Alliance</h3></p></a>
+      <p>Board member for, Kota Alliance, a NY-based umbrella organization elevating collaboration across borders for women-centered nonprofits. </p>
+    </div>
+  </div>
   <div class="column">
     <div class="card">
       <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><img src="/img/padt2.jpg"></a>
@@ -64,9 +71,9 @@ img {
   </div>
   <div class="column">
     <div class="card">
-      <a href="tiktok.com/airfrying"><img src="/img/ninja.png"></a>
-      <a href="tiktok.com/airfrying"><p><h3>Airfrying TikTok</h3></p></a>
-      <p>Created a TikTok with Asian-fusion airfryer recipe videos, with a following of 3500+.</p>
+      <a href="https://tiktok.com/@airfrying"><img src="/img/ninja.png"></a>
+      <a href="https://tiktok.com/@airfrying"><p><h3>Airfrying TikTok</h3></p></a>
+      <p>Co-creator of TikTok videos focused on unique and Asian-fusion airfryer recipe videos, with a following of 3500+.</p>
     </div>
   </div>
 </div>
