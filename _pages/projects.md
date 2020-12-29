@@ -40,8 +40,8 @@ permalink: /projects/
   }
 img {
     float: left;
-    width:  450px;
-    height: 350px;
+    max-width:  450px;
+    max-height: 350px;
     object-fit: cover;
 }
 }
@@ -50,21 +50,23 @@ img {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/img/regood.png">
-      <p><h3>Regood</h3></p>
-      <p>Regood is a lifestyle brand with a mission to close the loop on fast fashion. We rescue usable textiles destined for the landfill and upcycle them into lifestyle products.</p>
+      <a href="https://linktr.ee/regood"><img src="/img/regood.png"></a>
+      <a href="https://linktr.ee/regood"><p><h3>REGOOD</h3></p></a>
+      <p>REGOOD is a lifestyle brand that rescues usable textiles destined for the landfill and upcycle them into lifestyle products.</p>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/padt2.jpg">
-      <p><h3>Pan-Asian Dance Troupe</h3></p>
+      <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><img src="/img/padt2.jpg"></a>
+      <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><p><h3>Pan-Asian Dance Troupe</h3></p></a>
       <p>President, Artistic Director, and Choreographer of 11 show pieces for Penn's premiere Asian fusion dance group.</p>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img src="/img/ninja.png">
+      <a href="tiktok.com/airfrying"><img src="/img/ninja.png"></a>
+      <a href="tiktok.com/airfrying"><p><h3>Airfrying TikTok</h3></p></a>
+      <p>Created a TikTok with Asian-fusion airfryer recipe videos, with a following of 3500+.</p>
     </div>
   </div>
 </div>
