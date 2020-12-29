@@ -76,6 +76,20 @@ img {
       <p>Co-creator of TikTok videos focused on unique and Asian-fusion airfryer recipe videos, with a following of 3500+.</p>
     </div>
   </div>
+   <div class="column">
+    <div class="card">
+      <a href="https://oidd245kathrynwang.weebly.com/"><img src="/img/food.png"></a>
+      <a href="https://oidd245kathrynwang.weebly.com/"><p><h3>Food: What we say and do</h3></p></a>
+      <p>An exploratory data analysis project comparing the gap between foodie culture and what people actually cook.</p>
+    </div>
+  </div>
+     <div class="column">
+    <div class="card">
+      <a href="https://vegetarianrestaurantanalysis.weebly.com/"><img src="/img/veggie.jpg"></a>
+      <a href="https://vegetarianrestaurantanalysis.weebly.com/"><p><h3>Vegetarian Food in the US</h3></p></a>
+      <p>An exploratory data analysis project analyzing vegetarian restaurants in the US and focusing in on NY and Philly.</p>
+    </div>
+  </div>
 </div>
 </body>
 </html>
