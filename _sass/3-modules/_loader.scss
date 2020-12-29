@@ -12,11 +12,13 @@
 
 .loader {
   position: absolute;
-  top: 50%;
+  top: 50%;ß
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 10px;
-  font-family: 'Nunito', sans-serif;
+  // font-family: 'Nunito', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  // font-family: 'acumin-pro', sans-serif;
   font-size: 21px;
   letter-spacing: .5em;
   text-transform: uppercase;
