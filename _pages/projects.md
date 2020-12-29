@@ -64,7 +64,7 @@ img {
   </div>
   <div class="column">
     <div class="card">
-      <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><img src="/img/dance.jpg"></a>
+      <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><img src="/img/padt2.jpg"></a>
       <a href="https://www.youtube.com/playlist?list=PLscWaEI5jHhN-h_QUZcJR66kGoqp4sZvf"><p><h3>Pan-Asian Dance Troupe</h3></p></a>
       <p>President, Artistic Director, and Choreographer of 11 show pieces for Penn's premiere Asian fusion dance group.</p>
     </div>
